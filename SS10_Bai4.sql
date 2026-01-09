@@ -1,13 +1,4 @@
--- =====================================================
--- BÀI TẬP 4 – THỰC HÀNH CÁC LOẠI CHỈ MỤC (CƠ BẢN)
--- Database: social_network_pro
--- =====================================================
-
 USE social_network_pro;
-
--- =====================================================
--- PHẦN 1: COMPOSITE INDEX (CHỈ MỤC PHỨC HỢP)
--- =====================================================
 
 -- 1.1 Truy vấn: lấy các bài viết năm 2026 của user_id = 1
 SELECT post_id, content, created_at
