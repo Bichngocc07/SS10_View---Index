@@ -1,8 +1,3 @@
--- ============================================
--- BÀI TẬP 3 – CƠ BẢN
--- TẢI, IMPORT DATABASE & TRUY VẤN + INDEX
--- Database: social_network_pro
--- ============================================
 
 -- 1. SỬ DỤNG DATABASE
 USE social_network_pro;
@@ -53,3 +48,4 @@ DROP INDEX idx_hometown ON users;
 -- ============================================
 -- KẾT THÚC FILE
 -- ============================================
+
